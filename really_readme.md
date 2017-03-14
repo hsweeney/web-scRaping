@@ -18,7 +18,7 @@ Considerations:
 
 - choice of tools: rvest, RSelenium etc;
 - choice of website;
-- web_site_ or web_page?
+- web _site_ or web _page_ ?
 - generalising to multiple web sites, types of web site, non-web sites...
 - problems to consider:
 - - broken HTML;
