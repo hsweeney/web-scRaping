@@ -21,7 +21,7 @@ Considerations:
 - web _site_ or web _page_ ?
 - generalising to multiple web sites, types of web site, non-web sites...
 - problems to consider:
-- - broken HTML;
-- - how to detect if the web page structure has changesd?
-- - www.no1currency.com doesn't reveal all the page content in view-source; I think the use of <script type="text/template" ...> is the cause.
-- - sites actively or inadvertently impeding web scraping (e.g., captcha, loading via JS)
+  - broken HTML;
+  - how to detect if the web page structure has changesd?
+  - www.no1currency.com doesn't reveal all the page content in view-source; I think the use of <script type="text/template" ...> is the cause.
+  - sites actively or inadvertently impeding web scraping (e.g., captcha, loading via JS)
