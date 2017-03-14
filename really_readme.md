@@ -18,7 +18,7 @@ Considerations:
 
 - choice of tools: rvest, RSelenium etc;
 - choice of website;
-- web__site__ or web__page__?
+- web __site__ or web __page__?
 - generalising to multiple web sites, types of web site, non-web sites...
 - problems to consider:
   - broken HTML;
