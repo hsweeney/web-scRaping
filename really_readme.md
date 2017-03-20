@@ -17,8 +17,8 @@ Presentation or analysis of the data is left to another app.
 Considerations:
 
 - choice of tools: rvest, RSelenium etc;
-- choice of website;
-- web _site_ or web _page_?
+- choice of website; (https://data.gov.uk/dataset/highways_agency_planned_roadworks)
+- web _site_ or web _page_? data.gov at that url offers many pages; navigating that url by date would be a useful exercise.
 - generalising to multiple web sites, types of web site, non-web sites...
 - problems to consider:
   - broken HTML;
